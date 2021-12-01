@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/chainmail1.wav-818288aa8e97c5c1064a5f391df30275.sample"
+
+[deps]
+
+source_file="res://rpg_sound_pack/RPG Sound Pack/inventory/chainmail1.wav"
+dest_files=[ "res://.import/chainmail1.wav-818288aa8e97c5c1064a5f391df30275.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
